@@ -1,0 +1,20 @@
+{
+  "name": "d3demos",
+  "authors": [
+    "twicoder <renqingwei123@163.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "d3": "^5.0.0"
+  }
+}
